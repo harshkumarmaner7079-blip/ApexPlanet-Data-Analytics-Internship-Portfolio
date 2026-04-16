@@ -34,5 +34,4 @@ This portfolio documents a comprehensive data-to-insight journey. I transformed 
 ---
 
 ## **Contact**
-* **LinkedIn:** [Your Profile Link]
-* **GitHub:** [Your Profile Link]
+* **LinkedIn:** [https://www.linkedin.com/in/harsh-kumar-maner/]
